@@ -1,0 +1,3 @@
+[submodule "submd_repo"]
+	path = submd_repo
+	url = https://github.com/debjyoti-samanta/submd_repo.git
